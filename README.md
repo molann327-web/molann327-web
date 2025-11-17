@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi EVERYONE 👋
 
 # 💫 About Me:
 HI, I'm Maulana Ardhian Ismail<br>saya adalah seorang mahasiswa baru STIKOM El Rahma, <br><br>
