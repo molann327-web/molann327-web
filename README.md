@@ -4,7 +4,7 @@
 HI, I'm Maulana Ardhian Ismail<br>saya adalah seorang mahasiswa baru STIKOM El Rahma, <br><br>
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.olannn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.olann327@gmail.com) 
 
 # 💻 Tech Stack:
